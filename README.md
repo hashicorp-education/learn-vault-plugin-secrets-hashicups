@@ -1,7 +1,8 @@
 # vault-plugin-secrets-hashicups
 
 This secrets engine renews and revokes JSON Web Tokens (JWTs)
-for the HashiCorp demo application.
+for the HashiCorp demo application. It is shared here as
+supporting content for the [Define Roles for the Secrets Engine](https://developer.hashicorp.com/vault/tutorials/custom-secrets-engine/custom-secrets-engine-role) tutorial.
 ## Prerequisites
 
 1. Target API with CRUD capabilities for secrets.
